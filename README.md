@@ -93,7 +93,6 @@ $mail->Password = 'your-app-password';
 
 For support, please contact:
 - Email: ap5381545@gmail.com
-- Website: [Your Website URL]
 
 ## License
 
